@@ -13,7 +13,7 @@ const BannerIcon = () => {
     ];
 
     return (
-        <div className="py-16 overflow-hidden w-full framer-animation">
+        <div className="overflow-hidden w-full framer-animation">
             <div className="flex items-center space-x-16 animate-marquee">
                 {icons.map((icon, index) => (
                     <div

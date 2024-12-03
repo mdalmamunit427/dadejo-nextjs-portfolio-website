@@ -27,7 +27,7 @@ const CaseStudy = () => {
     ];
 
     return (
-        <div className="max-w-screen-xl mx-auto" id="case-studies">
+        <div className="max-w-screen-xl mx-auto py-12 md:py-36" id="case-studies">
             {/* Heading */}
             <div className="flex flex-wrap gap-3 items-center mb-16">
                 <p className="text-white font-bold text-xl">01</p>
